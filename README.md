@@ -17,7 +17,7 @@ $ git submodule update --init --recursive --remote && python3 ./static/games/dow
 ```
 
 ### 运行 Flask
-
+sdf
 在根目录下执行
 
 ``` sh
